@@ -2,6 +2,5 @@
 
 #### Ferramentas
 
-Kali Linux
-setoolkit
-
+- Kali Linux
+- setoolkit
