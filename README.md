@@ -10,27 +10,18 @@
 
 <img src="https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-de-conta-de-phishing_114360-2017.jpg" alt="imagem">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Projeto utiliza a ferramenta setoolkit para um ataque phishing com objetivo de capturar a senha do facebook do alvo.
 
-### Ajustes e melhorias
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
-- [x] Instalar Kali
-- [x] setoolkit
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
-
-## 💻 Pré-requisitos
+## 💻 Ferramentas
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-* Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+* Kali Linux
+* setoolkit
 
-## 🚀 Instalando <nome_do_projeto>
+
+## 🚀 Configurando o Phishing no Kali Linux
 
 Para instalar o <nome_do_projeto>, siga estas etapas:
 
