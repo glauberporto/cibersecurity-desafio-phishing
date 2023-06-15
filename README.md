@@ -25,14 +25,14 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Para instalar o <nome_do_projeto>, siga estas etapas:
 
-Linux e macOS:
+Linux: Acesso ao root
 ```
-<comando_de_instalação>
+sudo su
 ```
 
-Windows:
+Iniciando setoolkit:
 ```
-<comando_de_instalação>
+setoolkit
 ```
 
 ## ☕ Usando <nome_do_projeto>
