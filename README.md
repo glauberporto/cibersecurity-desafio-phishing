@@ -23,7 +23,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## 🚀 Configurando o Phishing no Kali Linux
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+Siga estas etapas:
 
 Linux: Acesso ao root
 ```
