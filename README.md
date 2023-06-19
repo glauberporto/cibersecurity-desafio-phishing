@@ -25,7 +25,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Siga estas etapas:
 
-:one: Linux: Acesso ao root
+:one: Linux: Acesso ao root:
 ```
 sudo su
 ```
@@ -56,6 +56,7 @@ http://www.facebook.com
 ```
 
 ## :dart: Resultados:
+
 
 
 
