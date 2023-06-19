@@ -9,6 +9,12 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
 <img src="https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-de-conta-de-phishing_114360-2017.jpg" alt="imagem">
+img {
+            width: 300px; /* Define a largura da imagem */
+            height: 200px; /* Define a altura da imagem */
+            border: 1px solid black; /* Define uma borda preta */
+            object-fit: cover; /* Ajusta a imagem dentro do tamanho especificado */
+        }
 
 > Projeto utiliza a ferramenta setoolkit para um ataque phishing com objetivo de capturar a senha do facebook do alvo.
 
