@@ -1,6 +1,5 @@
 # Phishing para captura de senhas do Facebook
 
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
@@ -63,7 +62,7 @@ http://www.facebook.com
 
 
 
-## 📫 Contribuindo para <nome_do_projeto>
+## 📫 Contribuindo para cibersecurity-desafio-phishing
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
