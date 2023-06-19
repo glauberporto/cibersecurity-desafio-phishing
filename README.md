@@ -34,6 +34,15 @@ Iniciando setoolkit:
 ```
 setoolkit
 ```
+Tipo de Ataque:
+```
+Social-Engineering Attacks
+```
+Vetor de Ataque 
+```
+Web Site Attack Vectors
+```
+
 
 ## ☕ Usando <nome_do_projeto>
 
