@@ -30,27 +30,27 @@ Siga estas etapas:
 sudo su
 ```
 
-Iniciando setoolkit:
+:two: Iniciando setoolkit:
 ```
 setoolkit
 ```
-Tipo de Ataque:
+:three: Tipo de Ataque:
 ```
 Social-Engineering Attacks
 ```
-Vetor de Ataque: 
+:four: Vetor de Ataque: 
 ```
 Web Site Attack Vectors
 ```
-Método de Ataque:
+:five: Método de Ataque:
 ```
 Credential Harvester Attack Method 
 ```
-Método de Ataque:
+:six: Método de Ataque:
 ```
 Site Cloner
 ```
-URL para Clone:
+:seven: URL para Clone:
 ```
 http://www.facebook.com
 ```
