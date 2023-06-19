@@ -9,8 +9,12 @@
 
 <img src="https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-de-conta-de-phishing_114360-2017.jpg" alt="imagem" width="400px">
 
+### Disclaimer:
+
+O uso da ferramenta Setoolkit, ou qualquer outra ferramenta de software mencionada neste contexto, é estritamente para fins educacionais e de aprendizagem.
 
 > Projeto utiliza a ferramenta setoolkit para um ataque phishing com objetivo de capturar a senha do facebook do alvo.
+
 
 
 ## 💻 Ferramentas
