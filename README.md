@@ -55,7 +55,7 @@ URL para Clone:
 http://www.facebook.com
 ```
 
-## 🚀 Resultados:
+## :dart: Resultados:
 
 
 
