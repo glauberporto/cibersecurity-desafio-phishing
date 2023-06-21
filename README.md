@@ -1,4 +1,4 @@
-# Phishing para captura de senhas do Facebook
+# Phishing para Captura de Senhas do Facebook
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
